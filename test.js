@@ -1,0 +1,1 @@
+const gr = ["ef","ge","qwd","grg","eee"]
